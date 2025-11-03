@@ -6,15 +6,19 @@
   <channel>
     <title>AI Weekly News</title>
     <link>https://josefkubinek-star.github.io/ai-briefing/</link>
-    <atom:link rel="self" type="application/rss+xml" href="https://josefkubinek-star.github.io/ai-briefing/rss.xml"/>
+    <atom:link rel="self" type="application/rss+xml"
+               href="https://josefkubinek-star.github.io/ai-briefing/rss.xml"/>
     <description>Týdenní AI update. Stručně, prakticky, bez bullshitu.</description>
     <language>cs</language>
+    <lastBuildDate>Mon, 03 Feb 2025 09:05:00 +0100</lastBuildDate>
 
     <itunes:author>Josef Kubínek</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://josefkubinek-star.github.io/ai-briefing/AI%20weekly%20news.jpg"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://josefkubinek-star.github.io/ai-briefing/AI_weekly_news.jpg"/>
 
+    <!-- ===== Epizoda #1 ===== -->
     <item>
       <title>Epizoda #1 – AI novinky týdne</title>
       <itunes:subtitle>AI přehled týdne</itunes:subtitle>
