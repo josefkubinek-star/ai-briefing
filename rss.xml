@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>AI Briefing</title>
+    <title>AI Weekly News</title>
     <link>https://josefkubinek-star.github.io/ai-briefing/</link>
-    <description>Tichý osobní AI briefing. Jen to podstatné.</description>
+    <description>Týdenní AI update. Stručně, prakticky, bez bullshitu.</description>
     <language>cs</language>
     <itunes:author>Josef Kubínek</itunes:author>
     <itunes:explicit>false</itunes:explicit>
