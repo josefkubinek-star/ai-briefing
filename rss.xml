@@ -8,5 +8,13 @@
     <itunes:author>Josef Kubínek</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+   <item>
+    <title>AI Briefing – 1. epizoda</title>
+    <guid isPermaLink="false">NAZEV.mp3</guid>
+    <enclosure
+      url="https://raw.githubusercontent.com/josefkubinek-star/ai-briefing/main/episodes/ai-briefing-001.mp3"
+      type="audio/mpeg"/>
+    <pubDate>Sun, 02 Nov 2025 23:59:00 +0100</pubDate>
+  </item> 
   </channel>
 </rss>
