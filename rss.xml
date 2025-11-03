@@ -3,28 +3,30 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
 
-<channel>
-  <title>AI Weekly News</title>
-  <link>https://josefkubinek-star.github.io/ai-briefing/</link>
-  <atom:link rel="self" type="application/rss+xml" href="https://josefkubinek-star.github.io/ai-briefing/rss.xml"/>
-  <description>Týdenní AI update. Stručně, prakticky, bez bullshitu.</description>
-  <language>cs</language>
+  <channel>
+    <title>AI Weekly News</title>
+    <link>https://josefkubinek-star.github.io/ai-briefing/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://josefkubinek-star.github.io/ai-briefing/rss.xml"/>
+    <description>Týdenní AI update. Stručně, prakticky, bez bullshitu.</description>
+    <language>cs</language>
 
-  <itunes:author>Josef Kubínek</itunes:author>
-  <itunes:explicit>false</itunes:explicit>
-  <itunes:category text="Technology"/>
-  <itunes:image href="https://josefkubinek-star.github.io/ai-briefing/AI%20weekly%20news.jpg"/>
+    <itunes:author>Josef Kubínek</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://josefkubinek-star.github.io/ai-briefing/AI%20weekly%20news.jpg"/>
 
-  <item>
-    <title>Epizoda #1 – AI novinky týdne</title>
-    <itunes:subtitle>AI přehled týdne</itunes:subtitle>
-    <itunes:summary>Nejdůležitější AI novinky uplynulého týdne, bez šumu.</itunes:summary>
-    <description>Nejdůležitější AI novinky uplynulého týdne, bez šumu.</description>
-    <link>https://josefkubinek-star.github.io/ai-briefing/episodes/ai-briefing-001.mp3</link>
-    <guid isPermaLink="false">ai-briefing-001</guid>
-    <enclosure url="https://josefkubinek-star.github.io/ai-briefing/episodes/ai-briefing-001.mp3" length="4776192" type="audio/mpeg"/>
-    <pubDate>Mon, 03 Feb 2025 09:00:00 +0100</pubDate>
-  </item>
+    <item>
+      <title>Epizoda #1 – AI novinky týdne</title>
+      <itunes:subtitle>AI přehled týdne</itunes:subtitle>
+      <itunes:summary>Nejdůležitější AI novinky uplynulého týdne, bez šumu.</itunes:summary>
+      <description>Nejdůležitější AI novinky uplynulého týdne, bez šumu.</description>
+      <link>https://josefkubinek-star.github.io/ai-briefing/episodes/ai-briefing-001.mp3</link>
+      <guid isPermaLink="false">ai-briefing-001</guid>
+      <enclosure url="https://josefkubinek-star.github.io/ai-briefing/episodes/ai-briefing-001.mp3"
+                 type="audio/mpeg"
+                 length="4776192"/>
+      <pubDate>Mon, 03 Feb 2025 09:00:00 +0100</pubDate>
+    </item>
 
-</channel>
+  </channel>
 </rss>
