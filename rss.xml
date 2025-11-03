@@ -9,12 +9,14 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
    <item>
-    <title>AI Briefing – 1. epizoda</title>
-    <guid isPermaLink="false">NAZEV.mp3</guid>
-    <enclosure
-      url="https://raw.githubusercontent.com/josefkubinek-star/ai-briefing/main/episodes/ai-briefing-001.mp3"
-      type="audio/mpeg"/>
-    <pubDate>Sun, 02 Nov 2025 23:59:00 +0100</pubDate>
-  </item> 
+  <title>AI Briefing – 1. epizoda</title>
+  <link>https://josefkubinek-star.github.io/ai-briefing/episodes/ai-briefing-001.mp3</link>
+  <guid isPermaLink="false">ai-briefing-001</guid>
+  <enclosure 
+      url="https://josefkubinek-star.github.io/ai-briefing/episodes/ai-briefing-001.mp3" 
+      type="audio/mpeg" 
+      length="4,8 MB" />
+  <pubDate>Mon, 03 Feb 2025 09:00:00 +0100</pubDate>
+</item>
   </channel>
 </rss>
